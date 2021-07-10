@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asagae
+- 👋 Hi, I’m Alicia @asagae
 - 👀 I’m interested in Natural Language Processing, AIED, Kajukenbo, Eskrima
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on Conversational Interfaces
